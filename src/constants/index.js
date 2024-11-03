@@ -193,13 +193,13 @@ const testimonials = [
     testimonial:
       "I've never met a UX Designer who really cares about clients' success like Abhijit does.",
     name: "Lakshya",
-    image: clientTwo,
+    image: clientThree,
   },
   {
     testimonial:
       "A Eye Mouse is such a miscellaneous project yet helped many people with disabilities. Happily satisfied with the work.",
     name: "Jayeesmita",
-    image: clientThree,
+    image: clientTwo,
   },
 ];
 
