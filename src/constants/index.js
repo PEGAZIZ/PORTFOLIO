@@ -245,7 +245,7 @@ const projects = [
     ],
     image: second_project,
     source_code_link:
-      "https://www.figma.com/proto/cNUFoZGpU7Upel97IbBwQl?node-id=0-9",
+      "https://www.figma.com/proto/qy4qLPP6sEsguTwqYQdxdA/3D-Interactive-Planet-Animation?page-id=0%3A1&node-id=1-473&node-type=canvas&viewport=91%2C-2260%2C0.85&t=QiDaoY4do6JbWllm-1&scaling=contain&content-scaling=fixed&starting-point-node-id=0%3A9",
   },
   {
     name: "3D Modelling (UX)",
