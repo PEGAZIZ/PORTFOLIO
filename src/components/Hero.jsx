@@ -23,7 +23,7 @@ const Hero = () => {
             Develop MERN web applications
           </p>
           <a
-            href="resume.pdf"
+            href="resume1.pdf"
             download="Abhijit Deka Resume"
             className="bg-[#915EFF] z-10 hover:bg-tertiary transition-all duration-300 py-3 px-8 mt-10 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
           >
