@@ -33,6 +33,7 @@ import {
   fifth_project,
   fifth_project_image,
   sixth_project,
+  x,
 } from "../assets";
 
 export const navLinks = [
@@ -265,7 +266,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: third_project,
+    image: x,
     source_code_link:
       "https://www.figma.com/proto/YBdJ3U0O1uLaRn8Crgl2pD/parallax.fig?page-id=3313%3A13&node-id=3313-14&node-type=canvas&viewport=167%2C331%2C0.1&t=wo7m957GcYtWw7Aa-1&scaling=contain&content-scaling=fixed&starting-point-node-id=3313%3A14",
   },
