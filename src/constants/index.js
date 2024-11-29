@@ -288,7 +288,7 @@ const projects = [
     source_code_link: "https://real-estate-nine-snowy.vercel.app/",
   },
   {
-    name: "3D Modelling (UX)",
+    name: "3D Modelling",
     description:
       "A Scrolling page with futuristic aesthetics and logics, something unique.",
     tags: [
