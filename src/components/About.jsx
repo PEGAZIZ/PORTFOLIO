@@ -49,11 +49,12 @@ const About = () => {
       >
         I’m a Google-certified UI/UX designer and full-stack developer
         specializing in the MERN stack. With ethical hacking insights from IIT
-        Guwahati, advanced Python proficiency, and a certification in Generative
-        AI from Microsoft and LinkedIn, I deliver secure, user-focused solutions
-        that blend innovation with functionality. My approach combines design,
-        development, and AI integration to create engaging digital experiences
-        that exceed client expectations.
+        Guwahati, advanced Python proficiency (DSA), certification in Generative
+        AI from Microsoft, and Skill Badge of Site Reliability Engineering from Google Clouds.
+        I deliver secure, user-focused solutions that blend innovation with functionality.
+        My approach combines design, development, and AI integration to create engaging 
+        digital experiences that exceed client expectations. Currently working as a UI/UX designer
+        at THE ASSIGNER.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
